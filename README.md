@@ -1,1 +1,1 @@
-Records of Don in NTU.
+Scripts for collecting CNVD datsset.
